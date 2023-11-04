@@ -1,0 +1,23 @@
+
+body {
+        background-image: url('./Photos/StarSky.jpg');
+        background-size: cover; 
+        /* Змінюємо розмір фону, щоб він покривав всю сторінку */
+        background-repeat: no-repeat; 
+        /* Вимикаємо повторення фону */
+        background-attachment: fixed; 
+        /* Фіксуємо фон при прокручуванні сторінки */
+}
+             
+
+/* Label{color:rgba(240, 236, 255, 0.5)} */
+        /* body{background-color: rgba(204, 252, 255, 0.57);} */
+
+/* #bd{color:rgb(191, 96, 96);} */
+/* .gender{color:rgb(32, 165, 172);} */
+
+*{font-size: 20px;
+    font-family:'Agbalumo', sans-serif;
+color:rgb(222, 224, 255);
+}
+    
