@@ -1,4 +1,5 @@
 
+
 body {
         background-image: url('./Photos/StarSky.jpg');
         background-size: cover; 
@@ -8,16 +9,24 @@ body {
         background-attachment: fixed; 
         /* Фіксуємо фон при прокручуванні сторінки */
 }
-             
+/* По ID */
+#tg{color:rgb(0, 206, 209);
+        font-family: 'Playpen Sans', sans-serif;
+        font-size: 25px}
+#inst{color:rgb(255, 20, 147);
+        font-family: 'Playpen Sans', sans-serif;
+        font-size: 25px}
+/*  По Label */
+Label{font-size: 35px;
+        color:rgba(222, 224, 255, 0.91);} 
+        Label{font-family: 'Agbalumo', sans-serif;}
+/* По класах */
+.list{color:rgb(140, 229, 231);
+        font-family: 'Agbalumo', sans-serif;
+        font-size: 25px;}
 
-/* Label{color:rgba(240, 236, 255, 0.5)} */
-        /* body{background-color: rgba(204, 252, 255, 0.57);} */
-
-/* #bd{color:rgb(191, 96, 96);} */
-/* .gender{color:rgb(32, 165, 172);} */
-
+/* Для всього */
 *{font-size: 20px;
-    font-family:'Agbalumo', sans-serif;
-color:rgb(222, 224, 255);
-}
+    font-family: 'Playpen Sans', sans-serif;
+    color:rgb(222, 224, 255);}
     
